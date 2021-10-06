@@ -1,5 +1,7 @@
 # Using MCreator with an Arduino UNO board (via Minecraft Link)
-Using MCreator with an Arduino UNO board (via Minecraft Link)
+MCreator provides an IDE to create and test Minecraft mods. Minecraft Link allows for an Arduino board (or Raspberry Pi) to connect to Minecraft via the Minecraft Forge mod.
+
+![Minecraft Link Overview](https://mcreator.net/image/link/diagramnobg.png)
 
 ## Requirements
 
@@ -23,9 +25,9 @@ Using MCreator with an Arduino UNO board (via Minecraft Link)
 
 ## Tutorials
 
-[MCreator Link: Installation in Minecraft](https://youtu.be/Y72qTDQ26Ng)
+[MCreator Link: Installation in Minecraft](https://mcreator.net/wiki/minecraft-link-installation)
 
-[MCreator Link: Installation on Arduino](https://youtu.be/B53p3CjJ4u8)
+[MCreator Link: Installation on Arduino](https://mcreator.net/wiki/minecraft-link-getting-started-arduino)
 
 [MCreator Link: MCreator procedures](https://mcreator.net/wiki/minecraft-link-mcreator-procedures)
 
